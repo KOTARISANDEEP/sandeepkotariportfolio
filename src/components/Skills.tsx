@@ -13,7 +13,7 @@ const Skills: React.FC = () => {
     {
       icon: Cpu,
       title: 'Generative AI',
-      skills: [' Prompt Engineering', 'AI Content Creation', ' Model Fine-Tuning & Customization', 'Tool Integration & Automation'],
+      skills: [' Prompt Engineering', '🤖 Multimodal Integration', ' Model Fine-Tuning & Customization', 'Tool Integration & Automation'],
       color: 'neon-violet'
     },
     {
