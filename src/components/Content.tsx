@@ -13,7 +13,7 @@ const Content: React.FC = () => {
     },
     {
       id: 2,
-      title: 'Full Stack Development in 2024',
+      title: 'Full Stack Development in 2025',
       thumbnail: 'https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=600',
       views: '28K',
       duration: '18:45'
